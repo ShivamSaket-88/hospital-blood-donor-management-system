@@ -45,13 +45,13 @@ rewa_hospital/
 ![Home](rewa_hospital/screenshots/home-page.png)
 
 ### Donor Registration
-![Donor](screenshots/donor-registration.png)
+![Donor](rewa_hospital/screenshots/donor-registration.png)
 
 ### Login Page
-![Login](screenshots/login-page.png)
+![Login](rewa_hospital/screenshots/login-page.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](rewa_hospital/screenshots/dashboard.png)
 ## Author
 Shivam Saket  
 B.Tech CSE  
