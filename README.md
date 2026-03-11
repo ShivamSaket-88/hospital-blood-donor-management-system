@@ -1,13 +1,13 @@
 # Hospital Blood Donor Management System
 
-This project is a web-based system that helps hospitals quickly find blood donors during emergency situations.
+A web-based application that helps hospitals quickly find blood donors during emergency situations.
 
 ## Features
 - Blood donor registration
-- Hospital admin login
+- Hospital admin login system
 - City-wise donor search
 - Blood group filtering
-- Dashboard interface
+- Attractive dashboard interface
 
 ## Technologies Used
 - HTML
@@ -25,8 +25,20 @@ Tables:
 - hospital_blood_donors
 - rewa_hospital_admin
 
-## Author
+## Project Structure
 
+rewa_hospital/
+│
+├── index.html
+├── signup.php
+├── login.php
+├── dashboard.php
+├── db.php
+├── css/
+├── js/
+└── images/
+
+## Author
 Shivam Saket  
 B.Tech CSE  
 Rewa Engineering College
