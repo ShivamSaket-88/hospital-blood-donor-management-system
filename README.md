@@ -42,7 +42,7 @@ rewa_hospital/
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/home-page.png)
+![Home](rewa_hospital/screenshots/home-page.png)
 
 ### Donor Registration
 ![Donor](screenshots/donor-registration.png)
