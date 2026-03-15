@@ -1,9 +1,16 @@
 # 🩸 Hospital Blood Donor Management System
 
-A web-based blood donor management system developed to help hospitals quickly find suitable blood donors during emergency situations.  
-This project allows hospitals to search donors by **city** and **blood group**, making the process faster and more efficient.
+## About the Project
 
----
+The Hospital Blood Donor Management System is a DBMS-based web application developed to support hospitals in emergency situations by providing quick access to blood donor information. Public users can register themselves as donors, and hospital administrators can log in to search donors based on city and blood group.
+
+This project includes the complete integration of:
+- **Frontend** for user interface design
+- **Backend** for application logic and form handling
+- **Database** for storing and retrieving donor and hospital data
+
+
+This project reflects practical implementation of database concepts in a real-world web application.
 
 ## 🔗 Live Demo
 
