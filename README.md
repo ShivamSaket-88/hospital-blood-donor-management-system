@@ -27,16 +27,7 @@ It provides an easy interface for donor registration and allows hospitals to sea
 This project is useful in emergency cases where hospitals need blood donors quickly and accurately.
 
 ---
-## Project Description
 
-This is a DBMS-based web application developed to help hospitals find blood donors quickly during emergency situations. The system allows public users to register as blood donors, while hospital administrators can log in and search donors by city and blood group.
-
-The project demonstrates the integration of **frontend, backend, and database** technologies:
-- Frontend using **HTML, CSS, and JavaScript**
-- Backend using **PHP**
-- Database using **MySQL**
-
-This project helped me gain practical experience in building a complete web-based database application.
 
 ## ✨ Features
 
